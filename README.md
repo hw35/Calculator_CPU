@@ -4,9 +4,9 @@
 * The hardware part of the Project_Calculator repository
 
 ### Hardware Preview
-CPU
+- CPU
 ![CPU - screenshot](Screenshots/CPU.png)
-Main
+- Main
 ![Main - screenshot](Screenshots/Main.png)
 
 ### Software Requirement
