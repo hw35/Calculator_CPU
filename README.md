@@ -4,7 +4,8 @@
 * The hardware part of the Project_Calculator repository
 
 ### Preview
-![Calculator - screenshot](mars4_5/images/Preview.png)
+![CPU - screenshot](Screenshots/CPU.png)
+![Main - screenshot](Screenshots/Main.png)
 
 ### Software Requirement
 * MIPS Assembler and Run-time Simulator (aka MARS)
