@@ -6,6 +6,7 @@
 ### Hardware Preview
 ##### CPU
 ![CPU - screenshot](Screenshots/CPU.png)
+##### Main
 ![Main - screenshot](Screenshots/Main.png)
 
 ### Software Requirement
