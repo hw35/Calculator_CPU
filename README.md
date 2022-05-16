@@ -17,8 +17,8 @@
 
 1. Download the repository files from the download section or clone this project by typing in the bash the following command:
 
-       git clone https://github.com/hw35/Project-Calculator.git
-3. Run MARS on the command line and open `simpleCalculator.asm.asm` file in MARS.
+       git clone https://github.com/hw35/Calculator_CPU.git
+3. Run MARS on the command line and open `simpleCalculator.asm` file in MARS.
 4. Open **Tools** tab in MARS and click on **Simple Calculator**
 5. Run the program :)
 
