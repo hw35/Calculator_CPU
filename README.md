@@ -3,8 +3,10 @@
 * Affords addition, subtraction, multiplication, division
 * The hardware part of the Project_Calculator repository
 
-### Preview
+### Hardware Preview
+CPU
 ![CPU - screenshot](Screenshots/CPU.png)
+Main
 ![Main - screenshot](Screenshots/Main.png)
 
 ### Software Requirement
