@@ -8,9 +8,8 @@
 
 ### Software Requirement
 * MIPS Assembler and Run-time Simulator (aka MARS)
-* Logisim-Generic-2.1.7, download here: 
+* Logisim-Generic-2.1.7, [download here](https://sourceforge.net/projects/circuit/files/2.7.x/2.7.1/logisim-generic-2.7.1.jar/download)
 
-       https://sourceforge.net/projects/circuit/files/2.7.x/2.7.1/logisim-generic-2.7.1.jar/download
 ### Installation
 
 1. Download the repository files from the download section or clone this project by typing in the bash the following command:
