@@ -1,4 +1,4 @@
-# Calculator_CPU
+# Calculator CPU
 * A 32-bit MIPS processor that supports calculator code in MARS
 * Affords addition, subtraction, multiplication, division
 * The hardware part of the Project_Calculator repository
